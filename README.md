@@ -2,7 +2,7 @@
 Это простой калькулятор с графическим интерфейсом, написанный с использованием библиотеки javax.swing  
   
 Вот так выглядит калькулятор:  
-![Menu](https://github.com/SssolidPrincesss/Console-minesweeper-in-java/blob/main/Consoleminesweeper/Game.png)  
+![Menu](https://github.com/SssolidPrincesss/A-simple-GUI-calculator/blob/main/GUIKalkulator/Kalkulator.png)  
 
 Программа включает в себя 3 метода: main, go, и обязательный для реализации actionPerformed(метод интерфейса ActionListener)
  
