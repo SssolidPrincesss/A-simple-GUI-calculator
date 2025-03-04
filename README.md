@@ -297,6 +297,6 @@ public class Kalkulator implements ActionListener{
 	    else if (e.getSource() == bDelete) {
         	label.setText("");
         }
-	  } 
+} 
 ```
   
